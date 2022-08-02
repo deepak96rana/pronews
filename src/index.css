@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.newsapp{
+  display: grid;
+  justify-content: center;
+}
+.newitem{
+  width: 500px;
+  padding: 20px;
+  border: 1px solid cyan;
+  margin-bottom: 20px;
+}
+.newsimg{
+  width: 400px;
+  border-radius: 20px;
+}
+.navbar-brand{
+  letter-spacing: 3px;
+}
+.fontfamily{
+  /* font-family: 'Mulish', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif; */
+  /* font-family: 'Mulish', sans-serif; */
+   font-family: 'Playfair Display', serif;
+  /* font-family: 'Source Sans Pro', sans-serif;  */
+}
